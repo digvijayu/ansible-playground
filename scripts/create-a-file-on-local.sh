@@ -1,0 +1,1 @@
+ansible hosts -m file -a "dest=$PWD/temp/test.txt state=touch"

@@ -1,0 +1,5 @@
+# Virtual Environment
+/venv
+
+# Temp folder to play around with the tests 
+/temp
